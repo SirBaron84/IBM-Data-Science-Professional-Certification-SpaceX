@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirbaron84&label=Profile%20views&color=2a6f3b&style=flat-square" alt="sirbaron84" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirbaron84&label=Profile%20views&color=2a6f3b&style=flat-square" alt="IBM-Data-Science-Professional-Certification" /> </p>
 
 ![](https://github.com/SirBaron84/IBM-Data-Science-Professional-Certification-/blob/main/images/IBM_.png)
 
