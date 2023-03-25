@@ -1,7 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirbaron84&label=%20views&color=2a6f3b&style=flat-square" alt="IBM-Data-Science-Professional-Certification" /> </p>
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 ![](https://github.com/SirBaron84/IBM-Data-Science-Professional-Certification-/blob/main/images/IBM_.png)
 
 
