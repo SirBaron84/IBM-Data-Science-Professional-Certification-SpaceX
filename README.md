@@ -30,6 +30,6 @@ $$Accuracy = \frac{TP+TN}{TP+FP+TN+FN}$$
 
 ### Deliverables
 - Data driven insights and the best accurate predictive algorithm.
-- Business case report to stakeholders.
+- Business case report to stakeholders, see folder Week 5 for "Data_Science_Capstone_Project_Space_X_Final_Report.pptx"
 
 
